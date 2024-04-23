@@ -13,3 +13,11 @@ export default {
   }
 };
 </script>
+
+<style>
+#app{
+  background-color: rgb(188, 220, 186);
+  border-radius: 25px;
+  padding: 10px;
+}
+</style>
